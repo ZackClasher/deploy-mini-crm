@@ -29,6 +29,13 @@
         "APP_SERVICES_CACHE": "/tmp/services.php",
         "VIEW_COMPILED_PATH": "/tmp",
 
+        "DB_CONNECTION": "mysql",
+        "DB_HOST": "yculhm.h.filess.io",
+        "DB_PORT": "3307",
+        "DB_DATABASE": "minicrm_silencemud",
+        "DB_USERNAME": "minicrm_silencemud",
+        "DB_PASSWORD": "09295c6114d8628ac87e6c05aba7c8a32fb74b0d",
+
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie"
